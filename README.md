@@ -1,51 +1,29 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Título do Projeto Criação de Avatar
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Após analisar o mapa de tendnência das IAs Generativas, fiquei curioso em criar um Avatar, 
+Então pesquisei sobre o tema e achei o VIDNOZ AI https://aiapp-pt.vidnoz.com/video/index.html
+e com ele realizei um resumo dos principais itens do curso, bem como um breve contexto sobre o tema.
 
 ## 🤖 Tecnologias Utilizadas
 Liste as IAs Generativas e outras ferramentas usadas
+VINDNOZ AI - https://aiapp-pt.vidnoz.com/video/index.html
+Google - https://www.google.com/
+Site do curso - https://web.dio.me/track/bootcamp-nexa-fundamentos-de-ia-generativa-e-claude-3
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Realizei a pesquisa por aplicações de criação de Avatar
+Subi minha foto para dar um tom realista.
+Pesquisei sobre o tema no Amazon Bedrock cloude 3 e depois utilizei um roteiro por IA da ferramentacom base nos titulos das lives assitidos.
+Adicionei Fundo diferente para cada paragrafo digitado.
+Adicionei Minha foto e posicionei em cada cena.
+Personalizei com um efeito de transição e uma musica de fundo.
+Gerando ao final o avatar.
+Após isso publiquei no linkedin, finalizando com a atualização do projeto no github.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O resultado foi um avatar realizando de forma explicativa meu aprendizado no bootcamp e os recursos aprendidos.
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+O que mais gostei foi observar cuidadosamente cada segmento do mapa de tendencias e o que me chamou atenção foi o avatar, como criar e realizar o processo para chegar no resultado final, vendo na pratica o que a IA pode fazer.
